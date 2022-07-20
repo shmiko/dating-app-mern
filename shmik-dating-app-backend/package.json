@@ -1,0 +1,13 @@
+{
+  "name": "shmik-dating-app-backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "shmik",
+  "license": "ISC"
+}
